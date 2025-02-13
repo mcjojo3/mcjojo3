@@ -8,7 +8,7 @@
 <br>
 💗 **`Like`** Programming, Cars
 <br>
-💼 **`Does`** Self-taught
+💼 **`Does`** RTU Project Engineer
 <br>
 
 <details>
