@@ -8,7 +8,7 @@
 <br>
 💗 **`Like`** Programming, Cars
 <br>
-💼 **`Does`** RTU Project Engineer
+💼 **`Does`** Studying (Electrical Power Engineer)
 <br>
 
 <details>
