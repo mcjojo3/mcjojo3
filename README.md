@@ -2,7 +2,7 @@
 
 <a href="#"><img align="left" width="100" height="100" src="assets/icon-circle.png" alt="mc_jojo3"></a>
 👤  **`Name`** Johannes Lövgren
-<a href="#"><img align="right" src="https://skillicons.dev/icons?i=java,idea,eclipse,vscode,blender,autocad,debian,linux&perline=4" alt="mc_jojo3's Skills"></a>
+<a href="#"><img align="right" src="https://skillicons.dev/icons?i=java,idea,eclipse,vscode,blender,autocad,windows,debian&perline=4" alt="mc_jojo3's Skills"></a>
 <br>
 💬 **`Lang`** Swedish, English
 <br>
